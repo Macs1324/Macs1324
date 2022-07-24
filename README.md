@@ -2,9 +2,7 @@
 
 <h3>
 -18 yo</br>
--Italian</br>
+-Italian living in Sweden</br>
 -Game Development and Neural networks enthusiast</br>
--Currently working as a Full Stack Developer</br>
--Developing a website for a startup</br>
--Developing a Game with a custom made game engine (or at least trying)</br>
+-Currently working as an Embedded C++ Engineer</br>
 </h3>
