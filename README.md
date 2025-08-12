@@ -3,5 +3,5 @@
 <h3>
 -Italian living in Sweden</br>
 -Game Development and Neural networks enthusiast</br>
--Currently working as an Embedded C++ Engineer</br>
+-Currently working as Software Engineer, primarily with Rust</br>
 </h3>
